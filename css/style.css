@@ -425,6 +425,7 @@ section{
     margin-bottom: 30px;
 }
 .menu-tab-item{
+    text-decoration: underline;
     font-size: 18px;
     font-family: inherit;
     text-transform: capitalize;
